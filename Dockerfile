@@ -1,4 +1,4 @@
-From python3
+From python
 RUN pip install flask
 copy app.py /app
 expose 19999
